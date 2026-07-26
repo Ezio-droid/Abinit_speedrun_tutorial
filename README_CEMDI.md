@@ -124,18 +124,6 @@ Run the notebooks in this order:
 5. `4-Phonons.ipynb` — MgO DFPT phonons and Anaddb
 6. `5-Challenges.ipynb` — optional follow-up activities
 
-In Notebook 0, the terminal installation checks are already handled by
-`setup_cemdi.sh`. You may skip:
-
-```python
-wlib.shell_command("abicheck.py")
-```
-
-In Notebook 2, skip the following cell:
-
-```python
-Does it look okay?
-```
 
 It is a sentence that was accidentally marked as Python code.
 
