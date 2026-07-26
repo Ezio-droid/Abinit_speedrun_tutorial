@@ -125,8 +125,6 @@ Run the notebooks in this order:
 6. `5-Challenges.ipynb` — optional follow-up activities
 
 
-It is a sentence that was accidentally marked as Python code.
-
 ## 6. Understand background flows
 
 Commands such as:
