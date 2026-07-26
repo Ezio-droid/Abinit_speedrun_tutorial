@@ -183,8 +183,6 @@ The following timings were measured on CEMDI with 8 cores and 30 GB:
 | MgO DFPT phonon flow | 166 s |
 
 The measured core calculations require roughly 10–15 minutes in total.
-Notebook discussion, plotting, and instructor explanations should allow the
-core tutorial to fit comfortably in a two-hour session.
 
 The optional exercises are not included in this estimate:
 
