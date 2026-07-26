@@ -1,3 +1,11 @@
+**CEMDI workshop participants:** Complete the
+[CEMDI environment setup](README_CEMDI.md) before opening the notebooks.
+
+This fork preserves Prof. Antonius’s original tutorial and adds only
+CEMDI-specific environment configuration, validation, and student guidance.
+
+
+
 # The Abinit Speedrun Tutorial
 
 ## About the tutorial
