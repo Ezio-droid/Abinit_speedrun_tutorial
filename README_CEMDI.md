@@ -22,7 +22,7 @@ The setup has been tested on `cemdi.calculquebec.cloud` with:
    |---|---:|
    | CPU cores | 8 |
    | Memory | 30,000 MB |
-   | Session duration | 2 hours |
+   | Session duration | 4 hours |
 
 Do not use the smaller default allocation. Several tutorial flows run two
 four-core ABINIT calculations concurrently.
@@ -76,16 +76,6 @@ ABINIT 10.8.2
 Abipy requirements are properly configured
 Setup completed successfully
 ```
-
-### Does every student need to create the kernel?
-
-Yes. A kernel installed under one account is not normally visible in another
-student's account. The setup script therefore creates a small user-level
-kernel for each student.
-
-This step would only become unnecessary if the CEMDI administrators installed
-the same kernel globally for all workshop accounts. Running the setup script
-would still be harmless.
 
 ## 4. Select the correct notebook kernel
 
